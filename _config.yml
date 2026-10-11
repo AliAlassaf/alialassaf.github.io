@@ -1,3 +1,19 @@
 title: Ali Alassaf
 description: Aspiring SOC Analyst | PT1 | Security+ in progress
+author: Ali Alassaf
 theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+header_pages:
+  - writeups.md
+  - about.md
+
+minima:
+  social_links:
+    github: AliAlassaf
+    medium: "@youalialassaf"
+
+permalink: /writeups/:title/
+show_excerpts: true
