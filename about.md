@@ -10,6 +10,11 @@ I'm **Ali Alassaf**, an aspiring SOC analyst focused on detection and incident r
 - **Interests:** detection engineering, incident response, blue-team tooling, and bug bounty hunting.
 - **Currently building:** open-source SOC tooling and write-ups of the labs and bugs I work through.
 
+### Recognition
+
+- **U.S. Department of Defense — Resolved** (2026)
+  Reported a verbose ASP.NET error-page issue that exposed an internal source-code path and the framework version (information disclosure). Submitted through the DoD Vulnerability Disclosure Program; triaged and resolved.
+
 ### Elsewhere
 
 - GitHub: [AliAlassaf](https://github.com/AliAlassaf)
