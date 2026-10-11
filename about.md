@@ -14,6 +14,8 @@ I'm **Ali Alassaf**, an aspiring SOC analyst focused on detection and incident r
 
 - **U.S. Department of Defense — Resolved** (2026)
   Reported a verbose ASP.NET error-page issue that exposed an internal source-code path and the framework version (information disclosure). Submitted through the DoD Vulnerability Disclosure Program; triaged and resolved.
+- **DCSA STEPP portal** (2026)
+  Reported a security misconfiguration through the DoD Vulnerability Disclosure Program. Valid finding, closed as a duplicate.
 
 ### Elsewhere
 
