@@ -21,3 +21,4 @@ I'm **Ali Alassaf**, an aspiring SOC analyst focused on detection and incident r
 
 - GitHub: [AliAlassaf](https://github.com/AliAlassaf)
 - Medium: [@youalialassaf](https://medium.com/@youalialassaf)
+- TryHackMe: [AliAlassaf](https://tryhackme.com/p/AliAlassaf)
