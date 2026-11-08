@@ -10,6 +10,11 @@ I'm **Ali Alassaf**, an aspiring SOC analyst focused on detection and incident r
 - **Interests:** detection engineering, incident response, blue-team tooling, and bug bounty hunting.
 - **Currently building:** open-source SOC tooling and write-ups of the labs and bugs I work through.
 
+### Projects
+
+- **[ZeroCheck](https://github.com/AliAlassaf/zerocheck)** — open-source tool that tells a SOC analyst or AI agent if an empty SIEM search is a real negative or a blind spot (sensor outage, parser drift, ingestion lag, retention). Python, Elasticsearch/Kibana, MCP. Tested on 14 real attack recordings from OTRF Security-Datasets.
+- **Blame the Bot** — a TryHackMe challenge room I designed (submitted for review): investigate an AI accounts-payable agent blamed for a fraudulent payment, using hash-chained agent logs, a hidden prompt injection, and forged log entries.
+
 ### Recognition
 
 - **U.S. Department of Defense — Resolved** (2026)
